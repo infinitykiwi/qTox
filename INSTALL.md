@@ -573,7 +573,12 @@ version of MinGW, corresponds to the version of the QT component!
 Download the Wget installer for Windows from
 http://gnuwin32.sourceforge.net/packages/wget.htm. Install them. The following
 steps assume that Wget is installed at `C:\Program Files\GnuWin32\`. If you
-decided to choose another location, replace corresponding parts.
+decided to choose another location, replace corresponding parts. 
+If you click "Setup program"(under 'Downloads') and are taken to source forge, note
+that the download link: 
+"Looking for the latest version? Download sed-4.2.1-setup.exe (2.0 MB) " 
+does not include Wget, and you will have to download wget-1.11.4-1-setup.exe
+from the wget\1.11.4-1 folder, on the page.
 
 ### UnZip
 
